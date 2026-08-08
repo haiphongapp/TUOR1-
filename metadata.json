@@ -1,0 +1,6 @@
+{
+  "name": "Haiphongapp Quay Video Đóng Hàng",
+  "description": "Ứng dụng quay video đóng hàng tự động quét đọc mã vạch đơn hàng, tự động ghi hình và tra cứu lịch sử đóng gói.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,36 C32.9,36 32,36.9 32,38 L32,70 C32,71.1 32.9,72 34,72 L74,72 C75.1,72 76,71.1 76,70 L76,38 C76,36.9 75.1,36 74,36 L66,36 L62,31 L46,31 L42,36 L34,36 Z" />
+    <!-- Camera Lens -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,54 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,54 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <!-- Recording Red Indicator Dot -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M68,41 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
